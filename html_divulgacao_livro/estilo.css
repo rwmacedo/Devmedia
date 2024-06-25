@@ -1,0 +1,35 @@
+body {
+    font-family: Tahoma;
+    background-color: #F5F5F5;
+    color: #000000;
+
+}
+
+h1 {
+    font-family: 'Tahoma', sans-serif;
+    text-align: center;
+    margin-top: 0 auto;
+
+}
+
+a{
+    background-color: #49B970;
+    color: #F5F5F5 ;
+    border-radius: 20px;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+div {
+    text-align: center;
+    padding: 40px;
+    border-top: 1px solid #d5d5d5;
+
+}
+span{
+    font-weight: bold;
+}
+
+p{
+    line-height: 50px
+}
